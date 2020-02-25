@@ -38,6 +38,7 @@ body, h1, li{
     display:flex;
     justify-content: space-around;
     align-items: stretch;
+    
  
     flex-wrap: wrap;
 
